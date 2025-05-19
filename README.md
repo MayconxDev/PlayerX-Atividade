@@ -1,4 +1,4 @@
-# 🎬 Escolha um jogo Aleatório
+#  Escolha um jogo Aleatório
 
 Aplicativo desenvolvido em Android Studio com Jetpack Compose, com o objetivo de ajudar pessoas indecisas a escolherem um jogo de acordo com sua plataforma de forma rápida e divertida.
 
@@ -21,8 +21,11 @@ Aplicativo desenvolvido em Android Studio com Jetpack Compose, com o objetivo de
 Funcionalidae de troca de temas para melhor visualização
 
 🔄 Geração aleatória de jogos de acordo com o gênero e plataforma selecionados  
+
 🖼️ Exibição da prévia e descrição dos jogos 
+
 🎨 Interface customizada com colunas, caixas, botões e imagens  
+
 📱 Totalmente responsivo com layout adaptado ao tema claro e escuro
 ---
 
