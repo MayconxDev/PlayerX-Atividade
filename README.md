@@ -13,7 +13,7 @@ Aplicativo desenvolvido em Android Studio com Jetpack Compose, com o objetivo de
 
  Escolha entre 4 gêneros de jogo:
 
-- Battle Royaly
+- Battle Royale
 - Aventura
 - Jogue com Amigos
 - Aleatório
@@ -27,7 +27,8 @@ Funcionalidae de troca de temas para melhor visualização
 🎨 Interface customizada com colunas, caixas, botões e imagens  
 
 📱 Totalmente responsivo com layout adaptado ao tema claro e escuro
----
+
+
 
 ## 🛠️ Tecnologias utilizadas
 
