@@ -40,14 +40,10 @@ Funcionalidae de troca de temas para melhor visualização
 
 ---
 
-## 📷 Imagens
-
-<img src="Images/screenshot2.png" width="300"/>
-
----
 
 ## 🚀 Como rodar o projeto
 
 Clone o repositório:
 
 ```bash
+https://github.com/MayconxDev/PlayerX-Atividade.git
